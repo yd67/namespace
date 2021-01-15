@@ -11,7 +11,7 @@
         - afficher un message 
     */
     
-namespace ydarius;
+namespace ydarius{
 
 $mdp='';
 
@@ -72,7 +72,7 @@ $mdp='';
             
             }
 
-
+}
 
  
-?> 
+?>
