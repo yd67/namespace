@@ -55,7 +55,7 @@ $mdp='';
                                   echo'votre mot de pase ne comporte pas de minuscule';
                               }
 
-
+  
                           }else{
                               echo 'votre mot de passe doit comporter une majuscule';
                           }
